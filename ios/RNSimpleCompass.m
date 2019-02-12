@@ -1,5 +1,5 @@
 #import "RNSimpleCompass.h"
-#import "RCTEventDispatcher.h"
+#import <React/RCTEventDispatcher.h>
 #import <Corelocation/CoreLocation.h>
 
 #define kHeadingUpdated @"HeadingUpdated"
