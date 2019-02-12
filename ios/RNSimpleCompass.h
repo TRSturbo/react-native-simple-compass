@@ -1,6 +1,6 @@
 
-#import "RCTBridgeModule.h"
-#import "RCTEventEmitter.h"
+#import <React/RCTBridgeModule.h>
+#import <React/RCTEventEmitter.h>
 
 @interface RNSimpleCompass : RCTEventEmitter <RCTBridgeModule>
 
